@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Coffee Shop Sales
+# Exploratory Data Analysis of Coffee Shop Sales 
 
 This repository contains the Python code and analysis conducted to explore and understand the sales data of a coffee shop. 
 
